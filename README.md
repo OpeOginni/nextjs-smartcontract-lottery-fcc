@@ -35,6 +35,6 @@ Check out our [Next.js deployment documentation](https://nextjs.org/docs/deploym
 
 ## SmartContract Website
 
-red-bread-5267.on.fleek.co
+[red-bread-5267.on.fleek.co] (red-bread-5267.on.fleek.co)
 
 It only recognizes Rinkeby and Goerli Testnet
