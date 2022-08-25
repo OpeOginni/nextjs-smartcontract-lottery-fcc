@@ -92,7 +92,7 @@ export default function LotteryEntrance() {
 
     return (
         <div>
-            Hi from lottery Entrance!
+            Welcome to my Lottery SmartContract!
             {raffleAddress ? (
                 <div className="p-5">
                     <button
