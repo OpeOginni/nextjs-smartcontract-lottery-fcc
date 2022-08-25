@@ -118,6 +118,9 @@ export default function LotteryEntrance() {
             ) : (
                 <div>No Raffle Address Detected</div>
             )}
+            <div>{chainId == 5 ? <div>You are Connected to the Goerli Testnet</div> : <div></div>}</div>
+            <div>{chainId == 31337 ? <div>You are Connected to the Hardhat Local Testnet</div> : <div></div>}</div>
+            <div>{chainId == 4 ? <div>You are Connected to the Rinkeby Testnet</div> : <div></div>}</div>
         </div>
     )
 }
